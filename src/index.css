@@ -1,0 +1,19 @@
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+button, h3, h5 {
+    margin: 5px;
+}
+
+.recordRow {
+    height: 12px;
+    font-size: 12px;
+}
+
+.grayish {
+    color: #aaa;
+}
